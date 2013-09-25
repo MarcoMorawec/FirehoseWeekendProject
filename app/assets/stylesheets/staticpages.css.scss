@@ -11,8 +11,18 @@
     color: white;
 }
 
-.custom-font {
-	font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,san-serif;
+.custom-font-headline {
+	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-size: 64px;
+    font-weight: 100;
+}
+
+.custom-font-paragraph {
+	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-size: 30px;
+    font-weight: 200;
+    line-height: 32px;
+    letter-spacing: 2px;
 }
 
 body {
